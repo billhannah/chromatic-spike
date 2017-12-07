@@ -5772,11 +5772,12 @@ rc@^1.0.1, rc@^1.1.6, rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-chromatic@^0.7.1:
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/react-chromatic/-/react-chromatic-0.7.1.tgz#5c152f81ff231711383eacab48e87cca62b14033"
+react-chromatic@^0.7.2:
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/react-chromatic/-/react-chromatic-0.7.2.tgz#1823888e2277e06249b1b38977dd7777df595122"
   dependencies:
     apollo-fetch "^0.6.0"
+    babel-runtime "^6.26.0"
     commander "^2.9.0"
     debug "^3.0.1"
     denodeify "^1.2.1"
